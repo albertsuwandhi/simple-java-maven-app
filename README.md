@@ -16,4 +16,4 @@ the "Deliver" stage of your Pipeline.
 
 -------------------------
 Integrate with Jenkins - Tunneled Through Ngrok Port 80
-DEMO APPS 1
+DEMO APPLICATION 1
